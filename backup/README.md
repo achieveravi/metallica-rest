@@ -1,2 +1,0 @@
-# metallica-rest
-Rest Service
